@@ -48,8 +48,9 @@
                 const width = j-i;
                 const area = height * width 
                 maxArea = Math.max(maxArea,area)
-            }
             (heights[i] <= heights[j]) ? i++ : j-- ;
-            return maxArea
+            } // end while loop 
+            
+            return maxArea;
         }
     
