@@ -14,5 +14,4 @@ Hard :
    42. Trapping Rain Water : 
        [Problem](https://leetcode.com/problems/trapping-rain-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Trapping_Rain_Water.js)
 
-42. Trapping Rain Water : 
-       [Problem](https://leetcode.com/problems/trapping-rain-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Trapping_Rain_Water.js)
+
