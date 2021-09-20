@@ -10,5 +10,6 @@ Medium :
        [Problem](https://leetcode.com/problems/container-with-most-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Container_with_most_water.js)
        
 Hard : 
+
    42. Trapping Rain Water : 
        [Problem](https://leetcode.com/problems/trapping-rain-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Trapping_Rain_Water.js)
