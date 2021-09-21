@@ -21,7 +21,7 @@ const threeSum  = function (nums) {
             }
         }
     }
-    return results ;
+    return ans ;
 }
 
 // time : O(n²)
