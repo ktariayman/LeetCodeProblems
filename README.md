@@ -12,17 +12,13 @@ Easy :
 Medium :
 
 
-      11. Container With Most Water : 
-       [Problem](https://leetcode.com/problems/container-with-most-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Container_with_most_water.js)
-       
-       
-      15. 3Sum
+   11. Container With Most Water : 
+       [Problem](https://leetcode.com/problems/container-with-most-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Container_with_most_water.js)              
+   15. 3Sum
        [Problem](https://leetcode.com/problems/3sum/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Three_Sums.js)
       
-      
-      16. 3Sum Closest
+    16. 3Sum Closest
        [Problem](https://leetcode.com/problems/3sum-closet/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Three_Sum_Closest.js)
- 
  
  
  Hard : 
@@ -30,5 +26,3 @@ Medium :
    42. Trapping Rain Water : 
        [Problem](https://leetcode.com/problems/trapping-rain-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Trapping_Rain_Water.js)
 
-
-s
