@@ -15,6 +15,10 @@ Medium :
        
    15. 3Sum
        [Problem](https://leetcode.com/problems/3sum/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Three_Sums.js)
+      
+   16. 3Sum Closest
+       [Problem](https://leetcode.com/problems/3sum-closet/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Three_Sum_Closest.js)
+
        
 Hard : 
 
@@ -22,3 +26,4 @@ Hard :
        [Problem](https://leetcode.com/problems/trapping-rain-water/) *** [Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Trapping_Rain_Water.js)
 
 
+https://leetcode.com/problems/3sum-closest/
