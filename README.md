@@ -1,7 +1,7 @@
 # LeetCodeProblems
 
 Easy : 
-   1Two Sum  : 
+   1 Two Sum  : 
        [Problem](https://leetcode.com/problems/two-sum/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Find_Two_Sum.js)
        
    167Two Sum II - Input array is sorted : 
