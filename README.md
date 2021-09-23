@@ -8,7 +8,10 @@ Easy :
    167Two Sum II - Input array is sorted : 
        [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Find_Two_SumII.js)
       
-      
+   
+   704. Binary Search
+       [Problem](https://leetcode.com/problems/binary-search/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/binary-search.js)
+
       
 Medium :
 
