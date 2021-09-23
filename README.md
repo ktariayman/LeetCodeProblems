@@ -9,8 +9,8 @@ Easy :
        [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Find_Two_SumII.js)
       
       
-    278 First Bad Version       
-[Problem](https://leetcode.com/problems/first-bad-version/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/First-Bad-Version.js)
+   278 First Bad Version   :
+       [Problem](https://leetcode.com/problems/first-bad-version/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/First-Bad-Version.js)
    
    
    704. Binary Search
