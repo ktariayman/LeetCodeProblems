@@ -22,6 +22,9 @@ Easy :
        [Problem](https://leetcode.com/problems/binary-search/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/binary-search.js)
 
       
+   977. Squares of a Sorted Array
+       [Problem](https://leetcode.com/problems/squares-of-a-sorted-array/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Squares-of-a-Sorted.js)
+
 Medium :
 
 
