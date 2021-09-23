@@ -5,9 +5,13 @@ Easy :
    1 .Two Sum  : 
        [Problem](https://leetcode.com/problems/two-sum/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Find_Two_Sum.js)
        
-   167Two Sum II - Input array is sorted : 
+   167 Two Sum II - Input array is sorted : 
        [Problem](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Find_Two_SumII.js)
       
+      
+    278 First Bad Version       
+[Problem](https://leetcode.com/problems/first-bad-version/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/First-Bad-Version.js)
+   
    
    704. Binary Search
        [Problem](https://leetcode.com/problems/binary-search/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/binary-search.js)
