@@ -25,7 +25,11 @@ Easy :
       
    977 .Squares of a Sorted Array
        [Problem](https://leetcode.com/problems/squares-of-a-sorted-array/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Squares-of-a-Sorted.js)
+     
+   1920 .Build Array from Permutation
+       [Problem](https://leetcode.com/problems/build-array-from-permutation)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/Build-Array-from-Permutation.js)
        
+
    1929 .Concatenation of Array
        [Problem](https://leetcode.com/problems/concatenation-of-array/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/ConcatenationofArray.js)
        
