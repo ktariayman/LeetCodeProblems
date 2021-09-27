@@ -32,6 +32,10 @@ Easy :
 
    1929 .Concatenation of Array
        [Problem](https://leetcode.com/problems/concatenation-of-array/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/ConcatenationofArray.js)
+   
+   
+   2011 .Final Value of Variable After Performing Operations
+       [Problem](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)  ***[Solution](https://github.com/ktariayman/LeetCodeProblems/blob/main/FinalValueofVariableAfterPerformingOperations.js)
        
 
 Medium :
